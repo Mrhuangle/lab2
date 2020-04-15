@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.btn {
+	width: 100px;
+	height: 45px;
+	border: 0px;
+	color: white;
+	background-color: green;
+}
+
+#main {
+	color: green;
+	margin-left: 20px;
+	background: #BBFFFF;
+	Opacity:0.8;
+}
